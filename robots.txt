@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rakeshkkumarsingh.github.io/notes/sitemap.xml
